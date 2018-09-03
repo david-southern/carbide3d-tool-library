@@ -25,7 +25,7 @@
        "tip-offset":0
       },
      "guid":"609ae718-67b3-4605-b472-88234f9a6fe4",
-     "last_modified":1511617861334,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -35,7 +35,7 @@
        "live":true,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood",
+       "tool-coolant":"disabled",
        "turret":0
       },
      "product-id":"122",
@@ -86,7 +86,7 @@
        "tip-offset":0
       },
      "guid":"74ff5d5c-759a-466b-8a52-870299722fcb",
-     "last_modified":1475716757378,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -95,7 +95,7 @@
        "length-offset":1,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood"
+       "tool-coolant":"disabled"
       },
      "product-id":"301",
      "reference_guid":"ec937a00-dbc9-456e-b104-2fa086999df6",
@@ -145,7 +145,7 @@
        "tip-offset":0
       },
      "guid":"79839a2b-1538-48c5-9a59-b571dcfce404",
-     "last_modified":1475716516691,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -154,7 +154,7 @@
        "length-offset":1,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood"
+       "tool-coolant":"disabled"
       },
      "product-id":"111",
      "start-values":
@@ -204,7 +204,7 @@
        "tip-offset":0
       },
      "guid":"98bdb80c-a7e4-4bd2-a14a-fefcf57930d9",
-     "last_modified":1511617843285,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -214,7 +214,7 @@
        "live":true,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood",
+       "tool-coolant":"disabled",
        "turret":0
       },
      "product-id":"101",
@@ -265,7 +265,7 @@
        "tip-offset":0
       },
      "guid":"9d10e163-1314-4f35-b08c-a6a362916202",
-     "last_modified":1475716626269,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -274,7 +274,7 @@
        "length-offset":1,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood"
+       "tool-coolant":"disabled"
       },
      "product-id":"102",
      "start-values":
@@ -324,7 +324,7 @@
        "tip-offset":0
       },
      "guid":"c8e99e37-53c5-40e9-8862-756db1bec744",
-     "last_modified":1511661361493,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -334,7 +334,7 @@
        "live":true,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood",
+       "tool-coolant":"disabled",
        "turret":0
       },
      "product-id":"121",
@@ -386,7 +386,7 @@
        "tip-offset":0
       },
      "guid":"e1ec5abe-2517-4cc7-94db-7c4fef601498",
-     "last_modified":1511617789878,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -396,7 +396,7 @@
        "live":true,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood",
+       "tool-coolant":"disabled",
        "turret":0
       },
      "product-id":"201",
@@ -447,7 +447,7 @@
        "tip-offset":0
       },
      "guid":"ec937a00-dbc9-456e-b104-2fa086999df6",
-     "last_modified":1475716837299,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -456,7 +456,7 @@
        "length-offset":1,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood"
+       "tool-coolant":"disabled"
       },
      "product-id":"301",
      "start-values":
@@ -505,7 +505,7 @@
        "tip-offset":0
       },
      "guid":"ed600ed7-5ffd-4dfe-b269-c6a195f0de18",
-     "last_modified":1475716510471,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -514,7 +514,7 @@
        "length-offset":1,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood"
+       "tool-coolant":"disabled"
       },
      "product-id":"112",
      "start-values":
@@ -563,7 +563,7 @@
        "tip-offset":0
       },
      "guid":"f72a24c8-25a4-49e3-8150-e4e069421ecc",
-     "last_modified":1475716614553,
+     "last_modified":1535987180343,
      "post-process":
       {
        "break-control":false,
@@ -572,7 +572,7 @@
        "length-offset":1,
        "manual-tool-change":false,
        "number":1,
-       "tool-coolant":"flood"
+       "tool-coolant":"disabled"
       },
      "product-id":"202",
      "start-values":
